@@ -20,7 +20,7 @@ export default function MainContent() {
             </div>
         </div>
         
-      <div className='flex flex-row items-center justify-between sm:justify-normal gap-8 my-4 py-4 overflow-x-auto'>
+      <div className='flex flex-row items-center justify-between sm:justify-normal gap-0 sm:gap-8 my-4 py-4 overflow-x-auto'>
         <div className='flex flex-col items-center justify-center min-w-[110px]'>
             <span className='flex flex-row items-center text-sm font-semibold'>4,0 <SlStar className='ml-1'/> </span>
             <span className='text-[#5f6368] text-xs font-medium'>24 N bài đánh giá</span>
